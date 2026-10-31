@@ -1,0 +1,46 @@
+{
+  "agent.json.xz": {
+    "size": 138760,
+    "sha256": "17a339c3f5915bc5fd32cae3fbb8734d464ae35c70bdc1ff89cc63964a7a4962"
+  },
+  "bc_camera.json.xz": {
+    "size": 6423652,
+    "sha256": "6a86ca44fb4810966ad91e643044284739f6bf1dd9ea9f891e13dff8e22d5fa3"
+  },
+  "bc_camera_2.json.xz": {
+    "size": 4850440,
+    "sha256": "11d7d43dcb27b3bf5576fd9635567588495dd0815489867602a9266689f4e8f7"
+  },
+  "bc_camera_testnerv.json.xz": {
+    "size": 4781784,
+    "sha256": "fb66801eb09090bcd45b9e4b575c46c527700d79f009fe267331019e569f5267"
+  },
+  "bc_hand.json.xz": {
+    "size": 3246952,
+    "sha256": "2e6c6dcab58646e24b6883b334ad9fa02d7ef17e4e80caf395826138be3ef311"
+  },
+  "bc_keyfix_2.json.xz": {
+    "size": 1254844,
+    "sha256": "2a789a4b03a4f0b5b9c3aed9dc51f6c87402226f0095900c32c67314bcf2b89c"
+  },
+  "motor.json.xz": {
+    "size": 6831380,
+    "sha256": "a8dc103048b87f3b7a8318b1cf0afe5cd2ba60e63560a885b8d28c301f5c2502"
+  },
+  "motor_claude.json.xz": {
+    "size": 4437948,
+    "sha256": "177fa6895bf1da0147997f24c2887d64f6837dd03190bdef8f769d43445e7d47"
+  },
+  "motor_hand.json.xz": {
+    "size": 3444528,
+    "sha256": "c3cdecfa4f280ac4528318730fffd7bd5f673d282e13f67be5f75ed60723b2d8"
+  },
+  "motor_imitation.json.xz": {
+    "size": 4437624,
+    "sha256": "714cbedf76f332cded9b5589f0cc4658f43db3f20be4ced661d0d633ae6a06e9"
+  },
+  "token_motor.json.xz": {
+    "size": 17842340,
+    "sha256": "ed23ff44429c2c8c947924b8945265fc6864fb393ae7424e3cf63ae9b8640f13"
+  }
+}
